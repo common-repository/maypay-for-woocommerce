@@ -1,0 +1,15 @@
+@font-face {
+    font-family: "__MPGiorgio";
+    src: url(../fonts/MPGiorgio.ttf) format("truetype");
+    src: url(../fonts/MPGiorgio.woff) format("woff");
+}
+
+@font-face {
+    font-family: "__MPMaven";
+    src: url(../fonts/MavenPro-Regular.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: "__MPMavenM";
+    src: url(../fonts/MavenPro-Medium.ttf) format("truetype");
+}

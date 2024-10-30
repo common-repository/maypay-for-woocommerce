@@ -1,0 +1,154 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: maypay\n"
+"POT-Creation-Date: 2024-01-09 11:55+0100\n"
+"PO-Revision-Date: 2024-01-09 11:55+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: maypay.php\n"
+
+#: maypay.php:73
+msgid "What if it was free?"
+msgstr "E se fosse gratis?"
+
+#: maypay.php:74
+msgid "Win or Pay"
+msgstr "Vinci o Paga"
+
+#: maypay.php:79
+msgid "Maypay - Win or pay"
+msgstr "Maypay - Vinci o paga"
+
+#: maypay.php:85
+msgid "Win or pay with Maypay, the only app to win what you're buying"
+msgstr ""
+"Vinci o paga con Maypay, l’unica app che ti permette di vincere ciò che stai "
+"acquistando"
+
+#: maypay.php:156
+msgid "Show description"
+msgstr "Mostra descrizione"
+
+#: maypay.php:158
+msgid "Shows a brief description of maypay when selected as payment method."
+msgstr ""
+"Mostra una breve descrizione di maypay quando viene selezionato come metodo "
+"di pagamento."
+
+#: maypay.php:164
+msgid "Enter your Maypay Store ID."
+msgstr "Inserisci il tuo Maypay Store ID."
+
+#: maypay.php:168
+msgid "Public Key"
+msgstr "Chiave Pubblica"
+
+#: maypay.php:170
+msgid "Enter your Maypay Public Key."
+msgstr "Inserisci la tua chiave pubblica di Maypay."
+
+#: maypay.php:174
+msgid "Private Key"
+msgstr "Chiave Privata"
+
+#: maypay.php:176
+msgid "Enter your Maypay Private Key."
+msgstr "Inserisci la tua chiave privata di Maypay."
+
+#: maypay.php:180
+msgid "Sandbox mode"
+msgstr "Modalità sandbox"
+
+#: maypay.php:182
+msgid "Enable the sanbox mode to try out maypay."
+msgstr "Abilita la modalità sandbox per provare maypay."
+
+#: maypay.php:186
+msgid "Sandbox Store ID"
+msgstr "Store ID Sandbox"
+
+#: maypay.php:188
+msgid "Enter your Maypay sandbox Store ID."
+msgstr "Inserisci il tuo Maypay Store ID di sandbox."
+
+#: maypay.php:192
+msgid "Sandbox Public Key"
+msgstr "Chiave Pubblica Sandbox"
+
+#: maypay.php:194
+msgid "Enter your Maypay sandbox Public Key."
+msgstr "Inserisci la tua chiave pubblica sandbox di Maypay."
+
+#: maypay.php:198
+msgid "Sandbox Private Key"
+msgstr "Chiave Privata Sandbox"
+
+#: maypay.php:200
+msgid "Enter your Maypay sandbox Private Key."
+msgstr "Inserisci la tua chiave privata sandbox di Maypay."
+
+#: maypay.php:204
+msgid "Refunds Fail"
+msgstr "Fai fallire i rimborsi"
+
+#: maypay.php:206
+msgid "Make the sandbox refund failed."
+msgstr "Fai fallire i rimborsi sandbox."
+
+#: maypay.php:278
+msgid "Refund Request Sent. Merchant Payment Request ID: "
+msgstr "Richiesta di rimborso invitata. ID della richiesta di pagamento: "
+
+#: maypay.php:285
+msgid "Failed to send refund request to Maypay. Error: "
+msgstr "Richiesta di rimborso fallita. Errore: "
+
+#: maypay.php:329
+msgid "Payment request sent to Maypay. Merchant Payment Request ID: "
+msgstr "Richiesta di pagamento invitata a Maypay. ID Richiesta:  "
+
+#: maypay.php:335
+msgid "Failed to send payment request to Maypay. Error: "
+msgstr "Richiesta di pagamento a Maypay fallita. Errore: "
+
+#: maypay.php:447
+msgid "Invalid or missing order ID"
+msgstr "ID dell’ordine non valido o assente"
+
+#: maypay.php:563
+#, no-php-format
+msgid ""
+"Order won with Maypay, paid by the customer with a 100% discount (for which "
+"Maypay has transferred the agreed amount to you)"
+msgstr ""
+"Ordine vinto con Maypay, acquistato dal cliente utilizzando un buono sconto "
+"del 100% (per il quale Maypay ti ha trasferito l’importo concordato)."
+
+#: maypay.php:567
+msgid "Order not won, the customer has paid the whole amount."
+msgstr "Ordine non vinto, il cliente ha pagato l’intero importo."
+
+#: maypay.php:576
+msgid "Waiting for refund"
+msgstr "In attesa di rimborso"
+
+#: maypay.php:580
+msgid "Order refunded successfully"
+msgstr "Ordine rimborsato con successo"
+
+#: maypay.php:599
+msgid "Refund request failed."
+msgstr "Richiesta di rimborso fallita."
+
+#~ msgid "Maypay requires WooCommerce to be installed and active."
+#~ msgstr "Maypay richiede che WooCommerce sia installato e attivo."
+
+#~ msgid "Maypay requires your domain to be ssl protected (https)."
+#~ msgstr "Maypay richiede che il tuo dominio sia protetto ssl (https)."
